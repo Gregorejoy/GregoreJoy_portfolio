@@ -42,3 +42,20 @@ background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,2
       opacity: 1;
     }
   } */
+
+  .img-screen-fit{
+    width: 100%;
+    object-fit: contain;
+  }
+  .bgc-white{
+background-color: #fff;
+  }
+  .w-100{
+    width: 100%;
+  }
+  .f-c-c{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    height: 200px;
+  }
